@@ -1,0 +1,241 @@
+\begin{thebibliography}{10}
+
+\bibitem{13}
+P.~M. Bowers~et al.
+\newblock Prolinks: a database of protein functional linkages derived from
+  coevolution.
+\newblock {\em Genome Biol.}, 2004.
+
+\bibitem{1}
+P.~M. Bowers~et al.
+\newblock Use of logic relationships to decipher protein network organization.
+\newblock {\em Science}, 2004.
+
+\bibitem{9}
+N.~Dellas~et al.
+\newblock Discovery of a metabolic alternative to the classical mevalonate
+  pathway.
+\newblock {\em eLIFE}, 2013.
+
+\bibitem{22}
+M.~Emily~et al.
+\newblock Using biological networks to search for interacting loci in
+  genome-wide association studies.
+\newblock {\em Eur. J. Hum. Genet.}, 2009.
+
+\bibitem{32}
+A.~J. Enright~et al.
+\newblock Protein interaction maps for complete genomes based on gene fusion
+  events.
+\newblock {\em Nature, 402:86-90}, 2001.
+
+\bibitem{12}
+L.~Giot~et al.
+\newblock A protein interaction map of drosophila melanogaster.
+\newblock {\em Science}, 2003.
+
+\bibitem{5}
+M.~Huynen~et al.
+\newblock Predicting protein function by genomic context: Quantitative
+  evaluation and qualitative inferences.
+\newblock {\em Genome Res.}, 2000.
+
+\bibitem{4}
+M.~Huynen~et al.
+\newblock Function prediction and protein networks.
+\newblock {\em Current Opinion in Cell Biology}, 2003.
+
+\bibitem{17}
+M.~A. Huynen~et al.
+\newblock Exploitation of gene context.
+\newblock {\em Curr. Opin. Struct. Biology}, 2000.
+
+\bibitem{25}
+S.~C. Janga~et al.
+\newblock Network-based function prediction and interactomics: The case for
+  metabolic enzymes.
+\newblock {\em Metab. Eng.}, 2010.
+
+\bibitem{46}
+M.~Kanehisa~et al.
+\newblock Kegg for representation and analysis of molecular networks involving
+  diseases and drugs.
+\newblock {\em Nucleic Acids Res., 38, D355-D360}, 2010.
+
+\bibitem{24}
+E.~Klipp~et al.
+\newblock Biochemical network-based drug-target prediction.
+\newblock {\em Curr. Opin. Biotechnol.}, 2010.
+
+\bibitem{28}
+K.~Lage~et al.
+\newblock A human phenome-interactome network of protein complexes implicated
+  in genetic disorders.
+\newblock {\em Nat. Biotechnol., 25, 309-316}, 2007.
+
+\bibitem{10}
+S.~Li~et al.
+\newblock A map of the interactome network of the metazoan c. elegans.
+\newblock {\em Science}, 2004.
+
+\bibitem{45}
+Huynen MA and Snel B.
+\newblock Exploiting the variations in the genomic associations of genes to
+  predict pathways and reconstruct their evolution.
+\newblock {\em In Frontiers in Computational Genomics}, 2000.
+
+\bibitem{19}
+E.~M. Marcotte.
+\newblock Computational genetics: finding protein function by nonhomology
+  methods.
+\newblock {\em Curr. Opin. Struct. Biol., 10, 359-365}, 2000.
+
+\bibitem{43}
+E.~Morett~et al.
+\newblock Gecont: gene context analysis.
+\newblock {\em Nat. Biotechnol.}, 2004.
+
+\bibitem{37}
+A.R. Mushegian and E.V. Koonin.
+\newblock {\em Trends Genet., 12, 289-290}, 1996.
+
+\bibitem{18}
+Galperin M.Y. and Koonin E.V.
+\newblock Who's your neighbor? new computational approaches for functional
+  genomics.
+\newblock {\em Nat. Biotechnol., 18, 609-613}, 2000.
+
+\bibitem{26}
+J.D. Orth and B.O. Palsson.
+\newblock Systematizing the generation of missing metabolic knowledge.
+\newblock {\em Biotechnol. Bioeng. 107, 403-412}, 2010.
+
+\bibitem{35}
+R.~Overbeek~et al.
+\newblock Use of contiguity on the chromosome to predict functional coupling.
+\newblock {\em In Silico Biol.}, 1998.
+
+\bibitem{36}
+R.~Overbeek~et al.
+\newblock The use of gene clusters to infer functional coupling.
+\newblock {\em Proc. Natl Acad. Sci. USA}, 1999.
+
+\bibitem{7}
+R.~Overbeek~et al.
+\newblock The use of gene clusters to infer functional coupling.
+\newblock {\em Proc. Natl. Acad. Sci. USA Vol. 96, pp. 2896-2901}, 1999.
+
+\bibitem{21}
+K.A. Pattin and J.H. Moore.
+\newblock Role for protein-protein interaction databases in human genetics.
+\newblock {\em Expert Rev. Proteomics}, 2009.
+
+\bibitem{30}
+M.~Pellegrini~et al.
+\newblock Assigning protein functions by comparative genome analysis: Protein
+  phylogenetic profiles.
+\newblock {\em Proc. Natl. Acad. Sci. USA, 96:4285-4288}, 1999.
+
+\bibitem{40}
+M.~Pellegrini~et al.
+\newblock Assigning protein functions by comparative genome analysis: protein
+  phylogenetic profiles.
+\newblock {\em Proc. Natl. Acad. Sci. U.S.A}, 1999.
+
+\bibitem{41}
+M.~Pellegrini~et al.
+\newblock Computational method to assign microbial genes to pathways.
+\newblock {\em J. Cell. Biochem. Suppl.}, 2001.
+
+\bibitem{23}
+A.~Pujol~et al.
+\newblock Unveiling the role of network and systems biology in drug discovery.
+\newblock {\em Trends Pharmacol. Sci.}, 2010.
+
+\bibitem{44}
+E.~M.~Marcotte. S.~V.~Date.
+\newblock Discovery of uncharacterized cellular systems by genome-wide analysis
+  of functional linkages.
+\newblock {\em Nat. Biotechnol.}, 2003.
+
+\bibitem{2}
+B.~Snel~et al.
+\newblock String: a web-server to retrieve and display the repeatedly occurring
+  neighbourhood of a gene.
+\newblock {\em Nucleic Acids Res.}, 2000.
+
+\bibitem{11}
+M.~Strong~et al.
+\newblock Inference of protein function and protein linkages in mycobacterium
+  tuberculosis based on prokaryotic genome organization: a combined
+  computational approach.
+\newblock {\em Genome Biol.}, 2003.
+
+\bibitem{29}
+Date S.V. and Marcotte E.M.
+\newblock Discovery of uncharacterized cellular systems by genome-wide analysis
+  of functional linkages.
+\newblock {\em Nat. Biotechnol., 21(9):1055-1062}, 2003.
+
+\bibitem{3}
+D.~Szklarczyk~et al.
+\newblock The string database in 2011: functional interaction networks of
+  proteins, globally integrated and scored.
+\newblock {\em Nucleic Acids Res.}, 2011.
+
+\bibitem{38}
+J.~Tamames~et al.
+\newblock {\em J. Mol. Evol., 44, 66-73}, 1997.
+
+\bibitem{15}
+A.~H. Tong~et al.
+\newblock Global mapping of the yeast genetic interaction network.
+\newblock {\em Science}, 2004.
+
+\bibitem{33}
+A.~Vazquez~et al.
+\newblock Global protein function prediction from protein-protein interaction
+  networks.
+\newblock {\em Nat. Biotechnol., 21(6):697-700}, 2003.
+
+\bibitem{14}
+C.~von Mering~et al.
+\newblock String: a database of predicted functional associations between
+  proteins.
+\newblock {\em Nucleic Acids Res.}, 2003.
+
+\bibitem{6}
+C.~von Mering~et al.
+\newblock String: a database of predicted functional associations between
+  proteins.
+\newblock {\em Nucleic Acids Res.}, 2003.
+
+\bibitem{27}
+P.I. Wang and E.M. Marcotte.
+\newblock It?s the machine that matters: Predicting gene function and phenotype
+  from protein networks.
+\newblock {\em J. Proteomics, 73, 2277-2289}, 2010.
+
+\bibitem{39}
+H.~Watanabe~et al.
+\newblock {\em J. Mol. Evol., 44, S57-S64}, 1997.
+
+\bibitem{31}
+J.~Wu~et al.
+\newblock Identification of functional links between genes using phylogenetic
+  profiles.
+\newblock {\em Bioinformatics, 19(12):1524-1530}, 2003.
+
+\bibitem{42}
+J.~Wu~et al.
+\newblock Identification of functional links between genes using phylogenetic
+  profiles.
+\newblock {\em Bioinformatics}, 2003.
+
+\bibitem{8}
+J.~Wu~et al.
+\newblock Deciphering protein network organization using phylogenetic profile
+  groups.
+\newblock {\em Genome Informatics}, 2005.
+
+\end{thebibliography}

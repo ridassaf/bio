@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: thesis.aux
+The style file: plain.bst
+Database file #1: thesis.bib
+Warning--empty title in 37
+Warning--empty title in 38
+Warning--empty title in 39
+You've used 43 entries,
+            2118 wiz_defined-function locations,
+            655 strings with 8418 characters,
+and the built_in function-call counts, 9043 in all, are:
+= -- 875
+> -- 343
+< -- 0
++ -- 149
+- -- 100
+* -- 383
+:= -- 1724
+add.period$ -- 126
+call.type$ -- 43
+change.case$ -- 176
+chr.to.int$ -- 0
+cite$ -- 46
+duplicate$ -- 430
+empty$ -- 732
+format.name$ -- 100
+if$ -- 1807
+int.to.chr$ -- 0
+int.to.str$ -- 43
+missing$ -- 43
+newline$ -- 215
+num.names$ -- 86
+pop$ -- 185
+preamble$ -- 1
+purify$ -- 136
+quote$ -- 0
+skip$ -- 304
+stack$ -- 0
+substring$ -- 221
+swap$ -- 43
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 172
+warning$ -- 3
+while$ -- 86
+width$ -- 45
+write$ -- 426
+(There were 3 warnings)
